@@ -1,6 +1,6 @@
 body {
     background: #FAFBFC;
-    color: #000;
+    color: #1B3446;
     font-family: 'Roboto Mono', monospace;
     font-weight: normal;
 }
@@ -56,19 +56,19 @@ footer {
 
 a:link {
     text-decoration: none;
-    color: #C84765;
+    color: #F30555;
 }
 
 a:visited {
     text-decoration: none;
-    color: #C84765;
+    color: #F30555;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #C84765;
+    color: #F30555;
 }
 
 b {
-    color: #C84765
+    color: #F30555
 }
